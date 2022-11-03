@@ -1,0 +1,25 @@
+.categorical-news {
+	display: flex;
+    flex-direction: row;
+    height: fit-content;
+    overflow-x: scroll;
+
+}
+.card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 25% !important;
+    padding: 5px;
+}
+.card-body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+#button{
+    bottom: 0;
+    position: absolute;
+    margin-bottom: 5px;
+}

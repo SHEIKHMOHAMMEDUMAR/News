@@ -1,0 +1,60 @@
+{
+  "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "SELECCIÓN MEXICANA Tata Martino SE CONTRADICE al buscar a Carlos Vela para Catar | Ahora O Nunca - ESPN Deportes",
+      "description": "Gerardo Tata Martino, técnico de la selección mexicana, se contradice al buscar a Carlos Vela para Catar 2022, de acuerdo con Hérculez Gómez. En Ahora o Nunc...",
+      "url": "https://www.youtube.com/watch?v=RgPEK6toe8w",
+      "urlToImage": "https://i.ytimg.com/vi/RgPEK6toe8w/maxresdefault.jpg",
+      "publishedAt": "2022-11-03T04:30:09Z",
+      "content": null,
+      "id": 1
+    },
+    {
+      "source": {
+        "id": 1,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "SELECCIÓN MEXICANA Tata Martino SE CONTRADICE al buscar a Carlos Vela para Catar | Ahora O Nunca - ESPN Deportes",
+      "description": "Gerardo Tata Martino, técnico de la selección mexicana, se contradice al buscar a Carlos Vela para Catar 2022, de acuerdo con Hérculez Gómez. En Ahora o Nunc...",
+      "url": "https://www.youtube.com/watch?v=RgPEK6toe8w",
+      "urlToImage": "https://i.ytimg.com/vi/RgPEK6toe8w/maxresdefault.jpg",
+      "publishedAt": "2022-11-03T04:30:09Z",
+      "content": null,
+      "id": 2
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Rahel Philipose",
+      "title": "Astronomers spot 'planet killer asteroid': Is it a threat to Earth? - The Indian Express",
+      "description": "Three new asteroids have been discovered, one of which astronomers have said could have \"a devastating impact on life as we know it\" and could potentially lead to a \"mass extinction event\". Here's what we know about '2022 AP7'",
+      "url": "https://indianexpress.com/article/explained/planet-kill-asteroid-threat-to-earth-explained-8246385/",
+      "urlToImage": "https://images.indianexpress.com/2022/11/Asteroid-planet-killer.jpg",
+      "publishedAt": "2022-11-03T04:13:53Z",
+      "content": "A team of astronomers has discovered three massive near-Earth asteroids hiding in the glare of the Sun. Of these, one called 2022 AP7 is believed to be the largest planet killer-sized asteroid to be … [+3645 chars]",
+      "id": 4
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Devdiscourse"
+      },
+      "author": "Devdiscourse News Desk",
+      "title": "Science News Roundup: SpaceX launches first Falcon Heavy mission since 2019 from Florida; Blue whales found to swallow 10 million microplastic pieces daily and more - Devdiscourse",
+      "description": "Following is a summary of current science news briefs.  SpaceX launches first Falcon Heavy mission since 2019 from Florida  SpaceX's Falcon Heavy, the world's most-powerful active rocket, lifted off on Tuesday for the first time in more than three years throu…",
+      "url": "https://www.devdiscourse.com/article/science-environment/2236530-science-news-roundup-spacex-launches-first-falcon-heavy-mission-since-2019-from-florida-blue-whales-found-to-swallow-10-mi",
+      "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/26_11_2019_02_24_49_4956869.jpg?width=920&format=jpeg",
+      "publishedAt": "2022-11-02T20:57:15Z",
+      "content": "Following is a summary of current science news briefs.\r\nSpaceX launches first Falcon Heavy mission since 2019 from Florida\r\nSpaceX's Falcon Heavy, the world's most-powerful active rocket, lifted off … [+1656 chars]",
+      "id": 5
+    }
+  ]
+}
