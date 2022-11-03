@@ -4,7 +4,6 @@ import "./categorical-news.css";
 export const CategoricalNews = (props) => {
   
   const addToDB = (news) => {
-    const id = Math.floor((Math.random() * 100) + 1);
     axios.post("http://localhost:3001/news",news)
     .then((res)=>console.log(res))
     .catch((err)=>console.log(err))
@@ -12,7 +11,7 @@ export const CategoricalNews = (props) => {
 
   return (
   <div className="categorical-news">
-    { (props.news != undefined) ? (props.news.map((n) => {
+    { (props.news !== undefined) ? (props.news.map((n) => {
       return (
         <div class="card m-2">
           <img src={n.urlToImage} class="card-img-top" alt={n.title} style={{height: "20vh", width: "20vh"}}/>
